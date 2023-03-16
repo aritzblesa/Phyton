@@ -1,2 +1,3 @@
 # Phyton
-Prácticas de Seminario de lenguajes (opción Python)
+Aritz Blesa 21636/1
+
