@@ -63,7 +63,6 @@ def mejorpromedio(promedio_estudiante):
     for clave, valor in promedio_esudiante.items() :
         if valor == promedio_mas_alto :
          return print(f" El promedio mas alto es {promedio_mas_alto} y el estudiante el cual lo obtuvo fue {clave}")
-         break
 
 mejorpromedio(promedio_esudiante)
 
